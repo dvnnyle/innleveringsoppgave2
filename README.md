@@ -3,6 +3,8 @@
 
 ### ⚡ Resultat: [IS118 Medborgerportal Del 2- Dokument](https://github.com/dvnnyle/innleveringsoppgave2/blob/danny/master.py)
 
+### ⚡ Du kan finne hvert medlems versjon her: [crewmates](https://github.com/dvnnyle/innleveringsoppgave2/tree/danny/crewmates)
+
 
 
 # Gruppe 14
